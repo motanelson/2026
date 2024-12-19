@@ -1,2 +1,3 @@
-# triangle.image
-draw a triagle image on form
+# ppci.2code
+
+code tree of a c file
